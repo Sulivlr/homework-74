@@ -5,7 +5,7 @@ const fileName = './messages/2024-08-05T02:52:05.698Z.txt';
 const date = new Date();
 
 const dataMessage = {
-  message: 'Hello Sultan!',
+  message: 'Hello Again!',
   dateTime: date.toISOString(),
 }
 
